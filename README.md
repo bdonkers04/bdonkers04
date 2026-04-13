@@ -42,5 +42,5 @@
 
 ### Projects
 
-[Space Invaders](https://bdonkers04.github.io/js-space-invaders/)
-[File Explorer](https://github.com/bdonkers04/python-file-explorer)
+[Space Invaders](https://bdonkers04.github.io/js-space-invaders/)  
+[File Explorer](https://github.com/bdonkers04/python-file-explorer)  
