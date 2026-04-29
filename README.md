@@ -3,7 +3,7 @@
 # 🚀 About Me
 💻 I build projects in software development & game development
 🤖 Interested in AI, automation, and problem solving
-🎮 Currently exploring game engines like Unity & Godot
+🎮 Currently developing a 3D title in Godot
 📚 Always learning and improving my skills
 
 # 🛠️ Tech Stack
